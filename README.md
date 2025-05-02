@@ -1,4 +1,4 @@
-# powerbi-projects
+# Powerbi-project
 
 # OLA Project
 
